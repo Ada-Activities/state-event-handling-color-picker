@@ -40,3 +40,19 @@
 .read-the-docs {
   color: #888;
 }
+
+.red {
+    color: red;
+  }
+
+.green {
+  color: green;
+}
+
+#red-button {
+  border: 2px solid #f44336; 
+}
+
+#green-button {
+  border: 2px solid #04AA6D; 
+}
